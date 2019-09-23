@@ -1,0 +1,13 @@
+convolutional ：卷积，回旋
+atrial: 心房
+fibrillation：纤维性颤抖
+physicians ：内科医生
+electrocardiogram：心电图
+diogram：图标，图解
+novel: 新奇的，异常的
+end-to-end: 端到端的
+superiority：优越性
+state-of-the-art：最先进的
+yield:产生
+specificity：特征，专一性
+mortality：死亡率，死亡数
