@@ -1,0 +1,17 @@
+paradigm: 范式 ,范例
+agile：敏捷的，灵活的
+utility：公共事业，实用，效用，公用程序 adj :多功能的
+Other than：除了
+intensive：adj 密集的  n 强调成分
+elastic：n 松紧带  adj 伸缩性的
+purportedly：adv 据称 据传
+derive：获得，得到
+playback： 回放
+provisioning： 配置，供应，供给
+instantaneous： 立刻的，瞬间的
+surges：飞涨，激增
+relay：v 接送，转发，转播  n 轮换者，中继设备
+formulate：规划
+investigated：调查，研究
+leverage：n 影响力，杠杆作用 v 利用 借贷收购
+heuristics：启发法，启发式方法
