@@ -1,0 +1,20 @@
+Intermediate： 中级，中间，中间体
+propagation ：传播
+overly：很，过分
+pixel: 像素
+acquisition：获得，得到
+binarization：二进制化
+preliminary：adj 预备的，开始的  n 初步行动
+constitute：组成 构成  设立
+contiguous： 相接  相邻
+ambiguous： 模糊不清的 ，模棱两可的
+extraneous： 无关的，没有关系的
+invariance：不变量，不变性，不变式
+overlap：重叠，重叠部分
+derivation：起源 由来 派生
+straightforward： 简单的，易懂的  率真的
+some degree of： 某种程度上
+arbitrary： 任意的
+snippetsL: 任意，片段
+sparse： 稀疏的，稀少的
+generic ： 类的，一般的，属的
