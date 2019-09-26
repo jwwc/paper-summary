@@ -1,0 +1,43 @@
+Intermediate： 中级，中间，中间体
+propagation ：传播
+overly：很，过分
+pixel: 像素
+acquisition：获得，得到
+binarization：二进制化
+preliminary：adj 预备的，开始的  n 初步行动
+constitute：组成 构成  设立
+contiguous： 相接  相邻
+ambiguous： 模糊不清的 ，模棱两可的
+extraneous： 无关的，没有关系的
+invariance：不变量，不变性，不变式
+overlap：重叠，重叠部分
+derivation：起源 由来 派生
+straightforward： 简单的，易懂的  率真的
+some degree of： 某种程度上
+arbitrary： 任意的
+snippets: 任意，片段
+sparse： 稀疏的，稀少的
+generic ： 类的，一般的，属的
+wildly ：及其的，野蛮的
+optimal：最优的，最在的
+outperforms：胜过，超越
+criticism：批评，考证
+ad-hoc: 对等式; 点对点; 对等模式; 自组网; 自组织;
+evolutionary: 进化的，演化的
+sophisticated：复杂的，富有经验的
+ablative:n. 烧蚀材料；离格  adj. 离格的；消融的
+integrator: 积分器
+exceed：超越，超过
+reparameterizing ：重新参数化
+sizeable：相当大的
+smeared：涂上，搽上 adj 弄脏的
+negligibly： 可忽视的
+circuitry：电路，电路系统
+concatenation：连接
+Mutation：突变的
+recurrent：经常发生的，周期性发生的
+attractors：吸引子，长期行为
+ stable： 稳定的
+perturbations：忧虑，烦恼，小不安
+mechanism： 机理，原理，进程
+annotations：注释
