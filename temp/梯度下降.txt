@@ -1,0 +1,66 @@
+f = lambda x: (x-4.3)**2 + 7.5*x +6
+g = lambda x:  2*x -1.1
+vim  =  np.random.randint(-10,10,size =1)[0]
+vim_last = vim +1
+precision = 0.0001
+step = 0.01
+while true
+	if np.abs(v_min - v_min_last) <precision
+           break
+	v_min_last = min
+        v_min = vim -g(v_min)*step
+梯度下降求w和b
+from sklearn.linear_model import LinearRegression
+X = np.linspace(2.5,12,25)
+w = np.random.randint(2,10,size =1)[0]
+b = np.random.randint(-5,-5,size =1)[0]
+y = X*w+ b +np.random.randn(25)*2
+lr = LinearRegression()
+lr = fit(X.reshape(-1,-1),y)
+lr.coef_
+lr.intercept_
+w
+b
+class Linear_model(object):
+	def __init__(self):
+           self.w = np.random.randn(1)[0]
+           self.b = np.random.randn(1)[0]
+	#model就是方程f(x) = wx+b
+        def model(self.x)
+            return self.w*x +self.b
+	#线性问题，原理都是最小二乘法
+        def loss(self,x,y)
+	     cost = (y -self.model(x))**2
+	     g_w = 2*(y-self.model(x))*(-x)
+	     g_b = 2*(y-self.model(x))*(-1)
+	     return g_w,g_b
+	#梯度下降
+        def gradient_descend(g_w,g_b,step =0.01)
+     	     self.w = self.w - g_w*step
+             self.b = self.b - g_b*step
+	def fit(self, X ,y)
+	     w_last = self.w +1
+             b_last = self.b +1
+             precision = 0.00001
+             max_count = 3000
+             count = 0
+         while True:
+		if(np.abs(self.w-w_last)<precision) and (np.abs(self.b - b_last) < precision):
+		   break
+		if count > max_count:
+		   break
+		更新斜率和截距
+	 g_w = 0
+	 g_b = 0
+	 size = X.shape[0]
+	 for xi,yj in zip(X,y):
+		g_w += self.loss(xi,yi)[0]/size
+                g_b += self.loss(xi,yi)[1]/size
+	self.gradient_descend(g_w,g_b)
+	count+=1
+	def coef_(self):
+	 	return self.w
+	def intercept_
+ 		return self.b
+  lm = Linear_model()
+  lm.fit()
