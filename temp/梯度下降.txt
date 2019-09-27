@@ -37,7 +37,7 @@ class Linear_model(object):
 	#ÌÝ¶ÈÏÂ½µ
         def gradient_descend(g_w,g_b,step =0.01)
      	     self.w = self.w - g_w*step
-             self.b = self.b - g_b*step
+            	     self.b = self.b - g_b*step
 	def fit(self, X ,y)
 	     w_last = self.w +1
              b_last = self.b +1
@@ -55,8 +55,8 @@ class Linear_model(object):
 	 size = X.shape[0]
 	 for xi,yj in zip(X,y):
 		g_w += self.loss(xi,yi)[0]/size
-                g_b += self.loss(xi,yi)[1]/size
-	self.gradient_descend(g_w,g_b)
+                                g_b += self.loss(xi,yi)[1]/size
+	                self.gradient_descend(g_w,g_b)
 	count+=1
 	def coef_(self):
 	 	return self.w

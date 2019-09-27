@@ -41,3 +41,21 @@ attractors：吸引子，长期行为
 perturbations：忧虑，烦恼，小不安
 mechanism： 机理，原理，进程
 annotations：注释
+intervals : 间隔， 间隙
+decaying： 腐烂， 衰败
+truncating： 截短，缩短
+bridge： n 桥，纽带 v 跨过 度过
+in excess of 超过
+discrete： 分离的，各不相连的
+lags： v  缓慢行动 滞后 n 滞后  间隔
+Multiplicative： 增加的，倍增的，乘法的
+correlation： 相关的，关联
+chunking：组块
+remedy：n 处理方法，改进措施，治疗，救济 v 改进，纠正
+blow up：充气，爆炸
+oscillation：震荡 摇摆 变化无常
+prohibitive：禁止的，负担不起的
+carrousel: 旋转木马 传输带
+embody： 具体表现，体现，包含，收录
+perturbation：焦虑，烦恼，小变异
+topology： 拓扑结构
