@@ -59,3 +59,6 @@ carrousel: 旋转木马 传输带
 embody： 具体表现，体现，包含，收录
 perturbation：焦虑，烦恼，小变异
 topology： 拓扑结构
+Scaling： 攀登，到达顶点
+perturbing： 使焦虑，使不安
+   

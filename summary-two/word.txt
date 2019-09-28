@@ -3,7 +3,7 @@ atrial: 心房
 fibrillation：纤维性颤抖
 physicians ：内科医生
 electrocardiogram：心电图
-diogram：图标，图解
+diagram：图标，图解
 novel: 新奇的，异常的
 end-to-end: 端到端的
 superiority：优越性
